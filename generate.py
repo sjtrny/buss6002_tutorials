@@ -67,8 +67,6 @@ for path in paths:
 # Create index
 index_f = open("index.md", "w")
 
-index_f.write("# BUSS6002 2020 SEM1\n")
-
 for index_data in index_data_list:
     
     index_f.writelines("\n")

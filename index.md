@@ -1,4 +1,3 @@
-# BUSS6002 2020 SEM1
 
 ### Week 01
 - [Notes](week_01/week_01.ipynb.html)
