@@ -1,8 +1,6 @@
-# BUSS6002_TUTORIALS
+# buss6002_tutorials
 
 This repository holds the weekly tutorial materials for BUSS6002.
 
-## Github Pages
-
-https://sjtrny.github.io/BUSS6002_2019_SEM1/
+You can view the materials online here https://sjtrny.github.io/buss6002_tutorials/
 
