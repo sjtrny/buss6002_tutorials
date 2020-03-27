@@ -51,6 +51,9 @@ for path in paths:
         writer.write(body, resources, f"{folder_name}/{notebook_path}")
         
         index_data['notebooks'][notebook_name] = f"{folder_name}/{notebook_path}"
+
+        # Copy notebook
+        shutil.copyfile(f"{path}/{notebook_path}", f"{folder_name}/{notebook_path}")
     
     # Copy assets
     for asset_path in path_resources_dict["assets"]:
@@ -72,7 +75,7 @@ for index_data in index_data_list:
     index_f.writelines("\n")
     index_f.writelines(f"### {index_data['name']}\n")
     for nb_name, nb_path in index_data['notebooks'].items():
-        index_f.writelines(f"- [{nb_name}]({nb_path}.html)\n")
+        index_f.writelines(f"- [{nb_name}]({nb_path}.html) ([notebook]({nb_path}))\n")
     
     if len(index_data['assets']) > 0:
         index_f.writelines("- Resources\n")
