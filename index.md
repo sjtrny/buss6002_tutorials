@@ -37,3 +37,25 @@
 - Resources
   - [BarackObama.csv](week_10/BarackObama.csv)
   - [DonaldTrumpTweets.csv](week_10/DonaldTrumpTweets.csv)
+
+### Week 11
+- [Notes](week_11/week_11.ipynb.html) ([notebook](week_11/week_11.ipynb))
+- [Tasks](week_11/week_11_tasks.ipynb.html) ([notebook](week_11/week_11_tasks.ipynb))
+
+### Week 12
+- [Notes](week_12/week_12.ipynb.html) ([notebook](week_12/week_12.ipynb))
+- [Tasks](week_12/week_12_tasks.ipynb.html) ([notebook](week_12/week_12_tasks.ipynb))
+- Resources
+  - [MobyDick.txt](week_12/MobyDick.txt)
+  - [airline\_small.csv](week_12/airline_small.csv)
+  - [BatonRouge.xls](week_12/BatonRouge.xls)
+
+### Week 13
+- [Notes](week_13/week_13.ipynb.html) ([notebook](week_13/week_13.ipynb))
+- [Tasks](week_13/week_13_tasks.ipynb.html) ([notebook](week_13/week_13_tasks.ipynb))
+- Resources
+  - [BatonRouge.csv](week_13/BatonRouge.csv)
+  - [DirectMarketing.xlsx](week_13/DirectMarketing.xlsx)
+  - [airline\_small.csv](week_13/airline_small.csv)
+  - [last\_purchases.csv](week_13/last_purchases.csv)
+  - [product\_prices.csv](week_13/product_prices.csv)
